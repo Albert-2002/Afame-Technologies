@@ -1,2 +1,1 @@
-# Afame-Technologies
-Project Repository
+# Project Repository
